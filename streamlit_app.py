@@ -4,7 +4,6 @@ import joblib
 import numpy as np
 import os
 
-# FIXED: Changed Windows paths to relative paths for Streamlit Cloud
 MODEL_PATH = "models/logistic_model.pkl"
 SCALER_PATH = "models/scaler.pkl"
 
