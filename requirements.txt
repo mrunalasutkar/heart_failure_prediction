@@ -1,0 +1,20 @@
+# Data manipulation
+numpy
+pandas
+
+# Machine learning models
+scikit-learn
+xgboost
+
+# Data visualization
+matplotlib
+seaborn
+
+# Jupyter Notebook
+notebook
+
+# handling imbalanced datasets
+imblearn
+
+# Application 
+Streamlit
